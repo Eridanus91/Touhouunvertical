@@ -1,9 +1,9 @@
 # TRDth
-A repository for Touhou patches made by TRDario.
+A repository for Touhou patches started by TRDario.
 
 
 
 ## unvertical
 A patch that makes all usually vertical text display horizontally.
 
-*Currently supported: PCB*
+*Currently supported: PCB, UFO*
